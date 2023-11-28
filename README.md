@@ -30,7 +30,7 @@ I am Baltazar Dela Cruz, with a flair for coding and database management skills.
 
 ## You may reach me at:
 
-- [LinkedIn](insert_LinkedIn_profile_link)
-- Email: juandelacruz@gmail.com
+- LinkedIn: (insert_LinkedIn_profile_link)
+- Email: baltazardelacruz74@gmail.com
 
 Feel free to reach out! I'm always open to new opportunities and collaborations.
