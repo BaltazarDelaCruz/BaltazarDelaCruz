@@ -5,8 +5,8 @@ I am Baltazar Dela Cruz, with a flair for coding and database management skills.
 ## Education
 
 - **BS Information Technology**
-  New Era University
-  *2021-Present*
+ - New Era University
+ - *2021-Present*
 
 ## Certifications
 
