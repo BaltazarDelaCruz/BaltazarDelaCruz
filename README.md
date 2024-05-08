@@ -17,6 +17,8 @@ I am Baltazar Dela Cruz, with a flair for coding and database management skills.
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=174421E16AFCF42033E377470DC26A4C31AAB34AC52BD621CBB3BF2782389CE8&fbclid=IwAR09S_OF7QzuB9oefl9Op1FaRTf4xXUuVe6pMep_WHH-lrj4_EA7VHlcplo)
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/09785601bb824eb6b85560c1587a75a8?fbclid=IwAR3NYC8z6lF_SN10-uaAjHtJdla1P_peOSV7k3DYjIbjwldwGgDSMwQRdEo)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/6d241877b6444186b900b7760f7e1ef4)
+
 
 ## Skill Sets
 
